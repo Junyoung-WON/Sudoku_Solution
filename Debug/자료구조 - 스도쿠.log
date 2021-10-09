@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\WJY\source\repos\자료구조 - 스도쿠\자료구조 - 스도쿠\main.cpp(272,13): warning C4804: '<': 연산에 'bool' 형식을 사용하는 것은 안전하지 않습니다.
+C:\Users\WJY\source\repos\자료구조 - 스도쿠\자료구조 - 스도쿠\main.cpp(272,54): warning C4804: '<': 연산에 'bool' 형식을 사용하는 것은 안전하지 않습니다.
+  자료구조 - 스도쿠.vcxproj -> C:\Users\WJY\source\repos\자료구조 - 스도쿠\Debug\자료구조 - 스도쿠.exe
